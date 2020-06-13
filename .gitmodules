@@ -1,6 +1,6 @@
 [submodule "cbo"]
-   path = "cbo"
-   url  = "https://github.com/hantyrram/HeCommerce-cbo"
+   path = cbo
+   url  = https://github.com/hantyrram/HeCommerce-cbo
 [submodule "shop"]
-   path = "shop"
-   url  = "https://github.com/hantyrram/HeCommerce-shop"
+   path = shop
+   url  = https://github.com/hantyrram/HeCommerce-shop
